@@ -184,10 +184,10 @@ def celsius_to_fahrenheit(celsius):
 
 
 
-
+f
 import shapes
 import converter
-r = 5
+f= 5
 w, h = 4, 6
 print(f"Площадь круга с радиусом {r}: {shapes.circle_area(r):.2f}")
 print(f"Площадь прямоугольника {w}x{h}: {shapes.rectangle_area(w, h)}")
@@ -248,7 +248,7 @@ def safe_divide(a, b):
         return a / b
     except ZeroDivisionError:
         return None
-print(safe_divide(10, 2)) 
-print(safe_divide(5, 0))  
-print("Hello")
+pint(safe_divide(10, 2)) 
+prnt(safe_divide(5, 0))  
+prnt("Hello")
 

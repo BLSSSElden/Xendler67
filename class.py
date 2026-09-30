@@ -71,9 +71,8 @@ print(result)
 word = "Программа"
 half_length = len(word) // 2
 first_half = word[:half_length]
-print(first_half)
-word = "яблоко"
+print(1 "яблоко"
 blok = word[1:5]  
 oko = word[3:6] 
-print("Первое слово:", blok)
-print("Второе слово:", oko)
+prinset("Первое слово:", blok)
+ print("Второе слово:", oko)

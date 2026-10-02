@@ -254,3 +254,4 @@ pint(safe_divide(10, 2))
 prnt(safe_divide(5, 0)) 
 ghjghj
 print(4)
+print(123)

@@ -252,3 +252,5 @@ def safe_divide(a, b):
         return None
 pint(safe_divide(10, 2)) 
 prnt(safe_divide(5, 0)) 
+ghjghj
+print(4)
